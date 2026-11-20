@@ -36,9 +36,9 @@ Connectly brings private conversations, group messaging, media sharing, and real
 
 ![Connectly Chat Interface](screenshots/chat.png.png)
 
-### Admin Dashboard
+### Full Website
 
-![Connectly Admin Dashboard](screenshots/fullpage.png.png)
+![Connectly Full Website](screenshots/fullpage.png.png)
 
 ## Getting Started
 
